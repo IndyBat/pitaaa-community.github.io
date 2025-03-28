@@ -26,19 +26,19 @@ You can register using the following [google form](https://docs.google.com/forms
 
 List of PIs participating to the event:
 
-Assoc. Prof. Martin Sikora (University of Copenhagen, Globe Institute)
+**Assoc. Prof. Martin Sikora** (University of Copenhagen, Globe Institute)
 
-Dr. Lucy van Dorp (University College London, Genetics Institute)
+**Dr. Lucy van Dorp** (University College London, Genetics Institute)
 
-Dr. Alexander Herbig (Max Planck Institute for Evolutionary Anthropology)
+**Dr. Alexander Herbig** (Max Planck Institute for Evolutionary Anthropology)
 
-Assoc. Prof. Verena Schuenemann (University of Zurich)
+**Assoc. Prof. Verena Schuenemann** (University of Zurich)
 
-Prof. Ludovic Orlando (Université de Toulouse III, Faculté de Médecine Purpan)
+**Prof. Ludovic Orlando** (Université de Toulouse III, Faculté de Médecine Purpan)
 
-Prof. Nicola Segata (Università Di Trento)
+**Prof. Nicola Segata** (Università Di Trento)
 
-Assoc. Prof. Michael D. Martin (NTNU University Museum)
+**Assoc. Prof. Michael D. Martin** (NTNU University Museum)
 
 
 Please note that assignment to each PI’s slots of time will be done in a first-come first-served way, so, if interested, don't wait to fill out the form!
