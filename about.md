@@ -21,7 +21,7 @@ We achieve these aims with various [projects](/projects), and by regularly commu
 Please join us on our:
 
 - [**archaeo.social**](https://matrix.to/#/#spaam:archaeo.social)
-for day-to-day advice, help, brainstorming, news, networking, and socialising. You can find instructions on how to join [**here**](https://www.isbarch.org/chat).
+for day-to-day advice, help, brainstorming, news, networking, and socialising. You can find instructions on how to join [**here**](https://www.isbarch.org/chat) \*.
 - [**mailing list**](https://www.listserv.dfn.de/sympa/info/spaam-community) for announcements, calls, and notices.
 - [**mastodon**](htthttps://genomic.social/@spaam_community) for latest news, polls, and publications.
 - [**X**](http://X.com/spaam_community) for latest news, polls, and publications.
@@ -35,5 +35,7 @@ We also have a dedicated group for members located in the [**Americas**](https:/
 
 
 If you have any questions or want to reach out for more info about our SPAAM community, [**the steering committee**](https://spaam-community.github.io/steering_committee/) is here to assist you.
+
+\* Archives of public channels of the old SPAAM slack can be seen [here](https://www.spaam-community.org/slack-archive/). 
 
 <i style="font-size: 10pt">The SPAAM Community is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of SPAAM.</i>
