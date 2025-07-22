@@ -36,6 +36,6 @@ We also have a dedicated group for members located in the [**Americas**](https:/
 
 If you have any questions or want to reach out for more info about our SPAAM community, [**the steering committee**](https://spaam-community.github.io/steering_committee/) is here to assist you.
 
-\* Archives of public channels of the old SPAAM slack can be seen [here](https://www.spaam-community.org/slack-archive/). 
+_\* Archives of public channels of the old SPAAM slack can be seen [here](https://www.spaam-community.org/slack-archive/)._
 
 <i style="font-size: 10pt">The SPAAM Community is an affiliate of [The International Society for Biomolecular Archaeology (ISBA)](https://isbarch.org), a Charitable Incorporated Organisation registered in England. ISBA provides infrastructural and financial support of the student-led activities of SPAAM.</i>
