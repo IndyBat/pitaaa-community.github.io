@@ -4,7 +4,6 @@ title: "SPAAM Blog Post Competition"
 categories: News
 ---
 
-# 🧬 SPAAM Blog Post Competition!
 The SPAAM Community is thrilled to announce our first-ever blog post competition!
 
 We invite all members of the SPAAM community to submit an original blog post on a topic of their choice related to ancient DNA; whether it’s a reflection on your research, an exciting methodological advance, an ethical discussion, or a creative take on the field.
