@@ -3,6 +3,7 @@ layout: post
 title: "SPAAM Blog Post Competition"
 categories: News
 ---
+<img src="https://spaam-community.github.io/assets/media/SPAAM_blog_competition.png" alt="SPAAM Blog competition" width="400px" class="center">
 
 The SPAAM Community is thrilled to announce our first-ever blog post competition!
 
