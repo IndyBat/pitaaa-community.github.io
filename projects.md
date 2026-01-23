@@ -121,11 +121,11 @@ Contact person(s): [James Fellows Yates](mailto:james_fellows_yates@eva.mpg.de) 
 
 <img alt="SPAAM Blog Logo" src="https://github.com/SPAAM-community/spaam-community.github.io/raw/master/assets/media/spaam-blog-logo-whitemode.svg" width="200px" style="display:block;margin-left:auto;margin-right:auto;width=50%;">
 
-The SPAAM community hosts a blog that hosts posts from members on a wide-range of ancient metagenomics topics, such as short deep-dive into technical methods, or summarising discussions of questions posted in the slack channel. You can request or post posts on the [#spaam-blog](https://spaam-community.slack.com/archives/C02D3DJP3MY) channel on the [SPAAM slack workspace](/about).
+The SPAAM community hosts a blog that hosts posts from members on a wide-range of ancient metagenomics topics, such as short deep-dive into technical methods, or summarising discussions of questions posted in the Element space. If you have an idea about a blog post, please get in touch with the curator.
 
 You can see all blog posts [here](https://spaam-community.github.io/category/blog/).
 
-Contact person(s): [Ele Green](mailto:eg715@york.ac.uk) and [Shreya Ramachandran](mailto:shreya23@uchicago.edu)
+Contact person: [Marcel Keller](mailto:marcel.keller@unibas.ch)
 
 ## SPAAMtisch
 
