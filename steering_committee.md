@@ -24,8 +24,6 @@ I am a postdoc at the Max Planck Institute for Evolutionary Anthropology working
 Contact: aida_andrades@eva.mpg.de, [**X**](http://x.com/aidaanva)
 
 
-
-
 <img src="/assets/media/Marcel_Keller_spaam.png" class="center" width="25%" >
 
 **Marcel Keller (he/him)  - Secretary**
@@ -71,7 +69,7 @@ Contact: yuwq@stu.pku.edu.cn
 
 <img src="/assets/media/Anastasia_Brativnyk_spaam.jpg" class="center" width="25%" >
 
-**Anastasia_Brativnyk (she/her) - Engagement Team**
+**Anastasia Brativnyk (she/her) - Engagement Team**
 
 I am a PhD student at the Ancient Genomics Laboratory at the Francis Crick Institute, London. My research focuses on paleoepidemiological analysis of metagenomes from Britain, aiming to understand the prevalence and dynamics of infectious diseases in the past. Outside of the lab, I enjoy bouldering, salsa, and roller skating. When I visit wintery landscapes, I happily trade these for ice skating, snowboarding, and cross-country skiing with my family dog.
 
@@ -89,7 +87,7 @@ Contact: mescobar@pasteur.fr
 
 <img src="/assets/media/Joanna_H_Bonczarowska_spaam.jpg" class="center" width="25%" >
 
-**Joanna H. Bonczarowska (she/her) - Social Media Team**
+**Joanna H. Romeyer-Dherbey (Bonczarowska) (she/her) - Social Media Team**
 
 I am a physical and molecular anthropologist interested in studying health and disease in past populations. My research integrates genomics of bacterial pathogens and multicellular parasites, human immuno- and population genetics, and osteological analysis of human skeletal remains. Currently, I am a postdoc at the Massilani Lab, Yale School of Medicine.
 
