@@ -120,8 +120,6 @@ which makes the file less computationally intensive to work with (see ‘Index F
 
 
 The difference between FASTQ, BAM and FASTA files. Created with Biorender.com
-![biorender](https://github.com/SPAAM-community/spaam-community.github.io/blob/master)
-
 <img src="/assets/media/blog-seqdata1-biorender.png" alt="biorender" width="100%" class="center">
 
 
