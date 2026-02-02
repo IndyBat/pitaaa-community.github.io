@@ -10,7 +10,7 @@ tags: spaam, blog
 
 _by [Olivia Smith](https://www.oliviasmith.me/home)_
 
-This is Part 2 of the Wrangling Sequencing Data series and it will focus of Download Tools. To find out about different file formats, make sure you have read Part 1.
+This is Part 2 of the Wrangling Sequencing Data series and it will focus of Download Tools. To find out about different file formats, make sure you have read [Part 1](https://www.spaam-community.org/blog/2026/02/02/blog-seqdata1/).
 
 One of the things that I often found challenging when I first started was figuring out how to find the best databases and download tools. Here, I’ll discuss a couple options.
 
