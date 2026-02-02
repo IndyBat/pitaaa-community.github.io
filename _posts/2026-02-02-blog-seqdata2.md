@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wrangling Sequencing Data. Part 2: File Formats"
-date: 2025-02-02
+date: 2026-02-02
 categories: Blog
 authors:
   - Olivia Smith 
