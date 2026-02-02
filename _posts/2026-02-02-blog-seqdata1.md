@@ -3,8 +3,6 @@ layout: post
 title: "Wrangling Sequencing Data. Part 1: File Formats"
 date: 2026-02-02
 categories: Blog
-authors:
-  - [Olivia Smith](https://www.oliviasmith.me/home) 
 tags: spaam, blog
 ---
 
