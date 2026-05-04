@@ -7,4 +7,4 @@ title: Blog
 
 All blog posts from the SPAAM community can be found below.
 
-The SPAAM blog was founded in 2022 and curated by [Eleanor Joan Green](https://twitter.com/elejgreen) and [Shreya Ramachandran](https://twitter.com/srama23) until 2025. Since 2026, the SPAAM blog is curated by [Marcel Keller](https://bsky.app/profile/marcelkeller.bsky.social).
+The SPAAM blog was founded in 2022 and curated by Eleanor Joan Green and Shreya Ramachandran until 2025. Since 2026, the SPAAM blog is curated by Marcel Keller and Joanna Romeyer-Dherbey.
