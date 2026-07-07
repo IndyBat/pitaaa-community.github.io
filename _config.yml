@@ -3,15 +3,16 @@ markdown: kramdown
 highlighter: rouge
 
 # Setup
-title: SPAAM Community
-tagline: Website for the SPAAM Community
+title: PITAAA Community
+tagline: Website for the PITAAA Community
 description: |
-  Standards, 
-  Precautions, and 
-  Advances in 
-  Ancient 
-  Metagenomics
-url: https://spaam-community.github.io/spaam-community.github.io-dev/
+  Practices in 
+  Isotopic
+  Techniques and
+  Advancing 
+  Applications in
+  Archaeology
+url: https://IndyBat.github.io/pitaaa-community.github.io-dev/
 baseurl:
   "/"
   # the optional subpath of your site, e.g. "/blog"
@@ -22,8 +23,8 @@ baseurl:
 remote_theme: fongandrew/hydeout
 
 author:
-  name: "SPAAM Community"
-  url: https://twitter.com/spaam_community
+  name: "PITAAA Community"
+  url: https://twitter.com/pitaaa_community
 
 paginate: 5
 # paginate_path:    '/page:num'
